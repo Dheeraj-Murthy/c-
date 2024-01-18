@@ -43,6 +43,8 @@ vector< vector<long long int >  > Power(vector<long long int >&arr, vector< vect
     return Y;
 }
 
+//take input as string and convert it to a decimal array
+//also the code runs in log(n) time complexity
 int main()
 {
     int k;long long int m;
